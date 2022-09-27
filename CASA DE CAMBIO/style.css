@@ -1,0 +1,32 @@
+*{
+    background-color: whitesmoke;
+}
+h3{  text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-decoration: underline;
+   
+}
+.FORMULARIO{
+    border-radius: 15%;
+    text-align: center;
+    margin: 20px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+#uno{
+    width: 100px;
+    height: 20px;
+}
+#dos{
+    width: 100px;
+    height: 20px;
+}
+#tres{ width: 100px;
+height: 20px;}
+#valor{font-size: x-large;}
+#cotizador{font-size: x-large;
+background-color: rgb(0, 4, 255);
+color: whitesmoke;
+border-radius: 25%;}
