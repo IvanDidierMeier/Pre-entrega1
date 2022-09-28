@@ -5,6 +5,10 @@ function convertir () {
     var dolar = 146.54;
     var Euro = 140.57;
     var libra = 157.35;
+    while (value=String){
+        mensaje=alert("No es posible realizar la conversion, ingrese un valor numerico")
+        break
+    }
     if (document.getElementById("uno").checked){
     resultado = valore/dolar;
     alert("El cambio de Pesos a Dolares es:$"+resultado.toFixed(2));
